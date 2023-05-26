@@ -1,0 +1,2 @@
+Wrote text to /usr/src/app/text.log
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
