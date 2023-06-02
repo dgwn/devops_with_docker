@@ -1,0 +1,2 @@
+docker run -it docker.io/devopsdockeruh/simple-web-service:alpine
+docker exec -it 9bc tail -f ./text.log
